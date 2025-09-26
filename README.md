@@ -1,6 +1,6 @@
-# 👨‍💻 Raju Ranjan - Cybersecurity Enthusiast | Web Developer | 
+# 👨‍💻 Raju Ranjan - Cybersecurity Engineer | Web Developer | 
 
-![Hacker Animation](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
+![Hacker Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNxMGUzeW85NHE4MGVxdmx1dWExbHRzeWszenFxNDI3bmhzdmR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif)
 
 ---
 

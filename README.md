@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 About Me
-Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong background in **Information Security**, **Web Development**, and **Penetration Testing**. I’m passionate about hacking ethically, securing systems, and developing secure applications that enhance cyber resilience.
+Hi there! I am **Raju Ranjan**, a cybersecurity engineer with a strong background in **Information Security**, **Web Development**, and **Penetration Testing**. I’m passionate about hacking ethically, securing systems, and developing secure applications that enhance cyber resilience.
 
 ---
 

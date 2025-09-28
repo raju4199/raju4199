@@ -22,8 +22,8 @@ Hi there! I am **Raju Ranjan**, a cybersecurity engineer with a strong backgroun
 ## 🛠️ Tech Stack and Tools
 
 - **Programming Languages**: `C++`, `Python`, `Bash`, `HTML`, `CSS`
-- **Penetration Testing Tools**: `Kali Linux`, `Nmap`, `Metasploit`, `Burp Suite`, `Nessus`
-- **Network Analysis Tools**: `Wireshark`, `Splunk`
+- **Penetration Testing Tools**: `Kali Linux`, `Nmap`, `Metasploit`, `Burp Suite`, `Nessus`, `Aircrack-ng`
+- **Network Analysis Tools**: `Wireshark`
 - **Web Development**: `React`, `SQL`, `Vite`
 - **Security Frameworks**: `OWASP Top 10`
 - **Developer Tools**: `Linux`, `Streamlit`, `ATTiny85`
@@ -37,6 +37,7 @@ Hi there! I am **Raju Ranjan**, a cybersecurity engineer with a strong backgroun
 - **2nd Runner-Up**: SIH 2023 Qualifiers | Blockchain and Cybersecurity
 - **Gold Medalist**: Academic Excellence Award at Chandigarh University
 - **Top 16%**: Over 20 rooms completed on **TryHackMe**
+-  **Certified Ethical Hacker**: CEH Qualified V12
 
 ---
 

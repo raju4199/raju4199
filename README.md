@@ -7,8 +7,8 @@
 **"In a world of vulnerabilities, I build defenses"**
 
 [![Email](https://img.shields.io/badge/Email-rajuaryan033@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuaryan033@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raju%20Ranjan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-ranjan/)
-[![GitHub](https://img.shields.io/badge/GitHub-RajuRanjan03-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajuRanjan03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raju%20Ranjan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajuranjann/)
+[![GitHub](https://img.shields.io/badge/GitHub-RajuRanjan03-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raju4199)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-raju4199-purple?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/raju4199)
 
 </div>
@@ -178,4 +178,4 @@ I'm always open to discussing **cybersecurity projects**, **research collaborati
 
 ---
 
-*Last Updated: ${new Date().toLocaleDateString()} | ⚡ Powered by Cybersecurity Passion*
+*Last Updated: ${new Date().toLocaleDateString()} | ⚡ Hehe Secure first*

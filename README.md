@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cybersecurity Banner](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![Cybersecurity Banner](https://raw.githubusercontent.com/raju4199/Raju/4ad836e48e8083fed63bfa19747f1908d506ac7d/Gemini_Generated_Image_4b1oam4b1oam4b1o.png))
 
 **"In a world of vulnerabilities, I build defenses"**
 

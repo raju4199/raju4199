@@ -34,10 +34,12 @@ I specialize in **offensive security** and **defensive strategies** with hands-o
 ### **🔓 Security Tools Mastery**
 <div align="center">
 
-| **Reconnaissance** | **Exploitation** | **Web App Security** | **Network Analysis** |
-|--------------------|------------------|---------------------|---------------------|
-| ![Nmap](https://img.shields.io/badge/Nmap-Network%20Mapping-FFFFFF?style=flat&logo=gnu&logoColor=black) | ![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-FF0000?style=flat) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro%20Edition-FF6B35?style=flat) | ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Wireless%20Testing-000000?style=flat) | ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-00A8E0?style=flat) | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Web%20Testing-000000?style=flat&logo=owasp&logoColor=white) | 
+| **Application Testing** | **Infrastructure Testing** | **Development** | **Hobbies** |
+|-------------------------|----------------------------|-----------------|-------------|
+| ![Web App](https://img.shields.io/badge/Web%20App-Testing-FF6B6B?style=flat) | ![Switch](https://img.shields.io/badge/Switch-L1/L2-4ECDC4?style=flat) | ![WordPress](https://img.shields.io/badge/WordPress-Development-21759B?style=flat&logo=wordpress&logoColor=white) | ![Writer](https://img.shields.io/badge/Writer-Poetry-45B7D1?style=flat) |
+| ![API Testing](https://img.shields.io/badge/API-Testing-96CEB4?style=flat) | ![Firewall](https://img.shields.io/badge/Firewall-Testing-F7D794?style=flat) | | ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-FF6B6B?style=flat) |
+| ![Android Testing](https://img.shields.io/badge/Android-Testing-78C850?style=flat&logo=android&logoColor=white) | ![WiFi AP](https://img.shields.io/badge/WiFi%20Access%20Point-Testing-F7A35C?style=flat) | | |
+| | ![Router](https://img.shields.io/badge/Router-Testing-7E57C2?style=flat) | | |
 
 </div>
 

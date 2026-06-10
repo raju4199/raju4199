@@ -1,183 +1,235 @@
-# 👨‍💻 Raju Ranjan - Cybersecurity Engineer | Ethical Hacker | Web Developer
-
+<!-- ANIMATED MATRIX HEADER -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=180&section=header&text=RAJU%20RANJAN&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CEH%20v12&descAlignY=55&descSize=18" width="100%"/>
 
-![Cybersecurity Banner](https://raw.githubusercontent.com/raju4199/Raju/4ad836e48e8083fed63bfa19747f1908d506ac7d/Gemini_Generated_Image_4b1oam4b1oam4b1o.png))
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&duration=3000&pause=600&color=00FF41&background=00000000&lines=root%40raju%3A~%23+whoami;%3E+Penetration+Tester+🕵️;%3E+Published+Security+Researcher+📜;%3E+Poet+by+night+🖋️;%3E+sudo+rm+-rf+/vulnerabilities;ACCESS+GRANTED+✅" alt="typing-intro" />
 
-**"In a world of vulnerabilities, I build defenses"**
+<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" height="120" alt="matrix-rain"/>
 
-[![Email](https://img.shields.io/badge/Email-rajuaryan033@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuaryan033@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raju%20Ranjan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajuranjann/)
-[![GitHub](https://img.shields.io/badge/GitHub-RajuRanjan03-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raju4199)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-raju4199-purple?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/raju4199)
+*"In a world of vulnerabilities, I build defenses."*
+
+[![Email](https://img.shields.io/badge/Email-rajuaryan033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuaryan033@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajuranjann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajuranjann/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2016%25-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/raju4199)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Published-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raju4199.github.io-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://raju4199.github.io)
+
+<img src="https://komarev.com/ghpvc/?username=raju4199&style=for-the-badge&color=00ff41&label=INTRUSIONS+DETECTED" alt="profile views" />
 
 </div>
 
 ---
 
-## 🔐 **Cyber Security Specialist**
+## `~$ cat about.txt`
 
-> *"To beat a hacker, you need to think like one"*
+```bash
+┌──(root㉿raju)-[~/about]
+└─# ./identity.sh
 
-I specialize in **offensive security** and **defensive strategies** with hands-on experience in penetration testing, vulnerability assessment, and secure application development. My mission is to fortify digital infrastructures against evolving cyber threats.
+  [+] NAME........: Raju Ranjan
+  [+] ROLE........: Cybersecurity Engineer
+  [+] CERT........: EC-Council CEH v12 (2023)
+  [+] FOCUS.......: Offensive Security | VAPT | Secure Dev
+  [+] RESEARCH....: Published Author — Web Vulnerabilities Modulation
+  [+] LEARNING....: Cloud Security, Blockchain Security
+  [+] SIDE-QUEST..: Poetry & Creative Writing 🖋️
+  [+] MOTTO.......: "To beat a hacker, you need to think like one."
 
----
-
-## 🛠️ **Technical Arsenal**
-
-### **💻 Programming & Scripting**
-![C++](https://img.shields.io/badge/C++-Expert-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-React-61DAFB?style=flat&logo=javascript&logoColor=black)
-
-### **🔓 Security Tools Mastery**
-<div align="center">
-
-| **Application Testing** | **Infrastructure Testing** | **Development** | **Hobbies** |
-|-------------------------|----------------------------|-----------------|-------------|
-| ![Web App](https://img.shields.io/badge/Web%20App-Testing-FF6B6B?style=flat) | ![Switch](https://img.shields.io/badge/Switch-L1/L2-4ECDC4?style=flat) | ![WordPress](https://img.shields.io/badge/WordPress-Development-21759B?style=flat&logo=wordpress&logoColor=white) | ![Writer](https://img.shields.io/badge/Writer-Poetry-45B7D1?style=flat) |
-| ![API Testing](https://img.shields.io/badge/API-Testing-96CEB4?style=flat) | ![Firewall](https://img.shields.io/badge/Firewall-Testing-F7D794?style=flat) | | ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-FF6B6B?style=flat) |
-| ![Android Testing](https://img.shields.io/badge/Android-Testing-78C850?style=flat&logo=android&logoColor=white) | ![WiFi AP](https://img.shields.io/badge/WiFi%20Access%20Point-Testing-F7A35C?style=flat) | | |
-| | ![Router](https://img.shields.io/badge/Router-Testing-7E57C2?style=flat) | | |
-
-</div>
-
-### **🌐 Web Development Stack**
-- **Frontend**: React, Vite, HTML5, CSS3
-- **Backend**: Node.js, Python
-- **Database**: SQL, MongoDB
-- **Security**: OWASP Top 10 Implementation
-
----
-
-## 🏆 **Cyber Achievements**
-
-<div align="center">
-
-| **Achievement** | **Event** | **Ranking** | **Year** |
-|-----------------|-----------|-------------|----------|
-| 🏆 **Grand Finalist** | KAVACH Cybersecurity Hackathon | Top 3 Teams | 2023 |
-| 🥇 **5th Place** | Intel OneApi Hackathon x IIT Roorkee | Top 5 | 2023 |
-| 🥉 **2nd Runner-Up** | SIH 2023 Qualifiers | Top 3 | 2023 |
-| ⭐ **Certified Ethical Hacker** | EC-Council CEH v12 | Certified | 2023 |
-| 🔥 **TryHackMe** | Continuous Learning | Top 16% | 2024 |
-
-</div>
-
----
-
-## 💻 **Notable Projects**
-
-### **1. 🦠 Enhanced Malware Detection using LLM**
-```python
-# AI-Powered Malware Analysis
-- Model: Fine-tuned distilBERT
-- Accuracy: 100% detection rate
-- Technology: Machine Learning, Python
-- Status: Research in Progress
+  [✓] Exploit complete. No systems were harmed... permanently.
 ```
-> *Revolutionizing malware detection through advanced AI algorithms*
 
-### **2. 🔌 Plug and Play Security Audit Tool**
-```cpp
-// Portable Security Assessment
-- Platform: Cross-platform (Windows/Linux/macOS)
-- Components: ATTiny85, Streamlit Dashboard
-- Features: Automated system logging, vulnerability scanning
-- Language: C++, Batch Scripting
-```
-> *Enterprise-grade security auditing made accessible*
-
-### **3. 🌐 Web Vulnerabilities Modulation Platform**
-```javascript
-// Interactive Web Security Learning
-- Framework: React + Vite
-- Vulnerabilities: SQLi, XSS, CSRF, Broken Access Control
-- Educational: Hands-on vulnerability demonstration
-- Database: SQL Integration
-```
-> *Bridging the gap between theory and practical security*
+I specialize in **offensive security** and **defensive strategy** — penetration testing, vulnerability assessment, and building applications that are secure by design.
 
 ---
 
-## 📊 **GitHub Analytics**
+## `~$ ls /opt/penetration-tools/` ⚔️
 
 <div align="center">
 
-| ![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raju4199&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raju4199&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff) |
-|:---:|:---:|
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Exploitation-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Attack_OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Nessus](https://img.shields.io/badge/Tenable_Nessus-Vulnerability_Scanning-00C176?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raju4199&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&fire=00ffff&ring=00ffff&currStreakLabel=00ffff)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi_Cracking-E34F26?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.aircrack-ng.org/)
+[![WiFi Pineapple](https://img.shields.io/badge/🍍_WiFi_Pineapple-Rogue_AP_/_MITM-FFD700?style=for-the-badge&logoColor=black)](https://shop.hak5.org/products/wifi-pineapple)
+[![Android Pentesting](https://img.shields.io/badge/Android_Pentesting-Mobile_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+
+[![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+[![Nmap](https://img.shields.io/badge/Nmap-Recon_%26_Scanning-0E83CD?style=for-the-badge&logo=gnometerminal&logoColor=white)](#)
+
+</div>
+
+```bash
+┌──(root㉿raju)-[/opt/penetration-tools]
+└─# ./arsenal.sh --status
+
+  [🔥] burpsuite ........ LOADED   → web app exploitation & proxy interception
+  [🐉] kali-linux ....... BOOTED   → primary attack platform
+  [🟢] nessus ........... ARMED    → enterprise vulnerability scanning
+  [📡] aircrack-ng ...... LISTENING → WPA/WPA2 handshake capture & cracking
+  [🍍] wifi-pineapple ... DEPLOYED → rogue AP, evil twin & MITM attacks
+  [🤖] android-pentest .. ACTIVE   → APK reversing, Frida, MobSF, ADB
+
+  [✓] All weapons hot. Authorized targets only. 😈
+```
+
+### 💻 Dev & Scripting Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,js,react,vite,nodejs,mongodb,mysql,wordpress,linux,kali,git,github&perline=7" alt="skill icons" />
+</div>
+
+![Web App Testing](https://img.shields.io/badge/Web_App_Pentesting-FF4757?style=flat-square&logo=owasp&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Security-2ED573?style=flat-square&logo=swagger&logoColor=white)
+![Network](https://img.shields.io/badge/Network_Pentesting-1E90FF?style=flat-square&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall_%26_Router_Audits-FFA502?style=flat-square&logo=pfsense&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-FF6348?style=flat-square&logo=hackerone&logoColor=white)
+
+---
+
+## `~$ cat research/published_paper.pdf` 📜
+
+<div align="center">
+
+[![Paper](https://img.shields.io/badge/📄_PUBLISHED_RESEARCH_PAPER-Web_based_Vulnerabilities_Modulation-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
+
+</div>
+
+> ### **"Web based Vulnerabilities Modulation: A Comprehensive Study on Web Vulnerabilities"**
+>
+> A comprehensive study dissecting modern web attack vectors — **SQL Injection, XSS, CSRF, Broken Access Control** — with practical modulation and demonstration of each vulnerability class.
+>
+> 🔗 **Read it on ResearchGate →** [researchgate.net/publication/380350909](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
+
+---
+
+## `~$ ./achievements --list`
+
+| | Achievement | Event | Result | Year |
+|---|---|---|---|---|
+| 📜 | **Published Researcher** | ResearchGate — Web Vulnerabilities Modulation | Author | 2024 |
+| 🏆 | **Grand Finalist** | KAVACH National Cybersecurity Hackathon | Top 3 Teams | 2023 |
+| 🥇 | **5th Place** | Intel oneAPI Hackathon × IIT Roorkee | Top 5 | 2023 |
+| 🥉 | **2nd Runner-Up** | Smart India Hackathon Qualifiers | Top 3 | 2023 |
+| 🎖️ | **CEH v12 Certified** | EC-Council | Certified Ethical Hacker | 2023 |
+| 🔥 | **TryHackMe** | Continuous CTF & Labs | Top 16% Worldwide | 2024 |
+
+<div align="center">
+
+![CEH v12](https://img.shields.io/badge/🎖️_EC--Council-CEH_v12_Certified-FF0000?style=for-the-badge)
+![KAVACH](https://img.shields.io/badge/🏆_KAVACH-Grand_Finalist-FFD700?style=for-the-badge)
+![Intel](https://img.shields.io/badge/🥇_Intel_oneAPI-Top_5-0071C5?style=for-the-badge)
+
+![SIH](https://img.shields.io/badge/🥉_SIH_2023-2nd_Runner--Up-FF6B35?style=for-the-badge)
+![THM](https://img.shields.io/badge/🔥_TryHackMe-Top_16%25_Worldwide-88CC14?style=for-the-badge)
+![Paper](https://img.shields.io/badge/📜_ResearchGate-Published_Author-00CCBB?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🐍 **Contribution Graph**
+## `~$ ls projects/ --featured`
+
+### 🦠 Enhanced Malware Detection using LLM
+> AI-powered malware analysis — fine-tuned **distilBERT** achieving near-perfect detection on test sets. *(Research in progress)*
+>
+> `Python` `Machine Learning` `Transformers` `Malware Analysis`
+
+### 🔌 Plug-and-Play Security Audit Tool
+> Portable, cross-platform auditing device built on **ATTiny85** with a **Streamlit** dashboard — automated system logging and vulnerability scanning on plug-in.
+>
+> `C++` `Batch` `ATTiny85` `Streamlit`
+
+### 🌐 Web Vulnerabilities Modulation Platform
+> Interactive learning platform demonstrating **SQLi, XSS, CSRF, and Broken Access Control** hands-on — backed by my [published research paper](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities).
+>
+> `React` `Vite` `SQL` `OWASP`
+
+---
+
+## `~$ vim ~/writer/poetry.txt` 🖋️
+
+```text
+┌──(poet㉿raju)-[~/writer]
+└─# cat soul.dump
+
+  When firewalls sleep and ports shut tight,
+  I trade my shell for pen at night —
+  The same mind that breaks a system's art,
+  Writes verses that can break a heart.
+
+  ~ hacker by day, poet by night ~
+```
+
+![Writer](https://img.shields.io/badge/✍️_Writer-Poetry_%26_Verse-E91E63?style=for-the-badge)
+![Shayari](https://img.shields.io/badge/🪶_Shayari-Heartfelt_Lines-9C27B0?style=for-the-badge)
+![Creative](https://img.shields.io/badge/🎭_Creative-Storytelling-FF5722?style=for-the-badge)
+
+> *Two terminals open at midnight — one running exploits, one writing poems.*
+
+---
+
+## `~$ git stats`
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/aishworyann/aishworyann/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=raju4199&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju4199&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" alt="languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raju4199&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Intrusion+Activity+Log" width="95%" alt="activity graph" />
 
 </div>
 
 ---
 
-## 📈 **Cybersecurity Journey**
+## `~$ cat roadmap.md`
 
 ```mermaid
-graph TD
-    A[Interest in Hacking] --> B[Formal Education]
-    B --> C[CEH Certification]
-    C --> D[Hackathon Participation]
-    D --> E[Research & Development]
-    E --> F[Professional Cybersecurity Engineer]
-    
-    style A fill:#ff6b6b
-    style F fill:#4ecdc4
+graph LR
+    A[🔓 Curiosity for Hacking] --> B[🎓 Formal Education]
+    B --> C[📜 CEH v12]
+    C --> D[🏆 National Hackathons]
+    D --> E[📄 Published Research]
+    E --> F[🛡️ Cybersecurity Engineer]
+    style A fill:#ff4757,color:#fff
+    style F fill:#00ff41,color:#000
 ```
 
----
-
-## 🎯 **Current Focus**
-
-- 🔬 **Research**: Advanced Malware Detection using AI/ML
-- 🛡️ **Development**: Automated Security Tools
-- 📚 **Learning**: Cloud Security & Blockchain Security
-- 🎓 **Mentoring**: Cybersecurity Awareness Programs
+**Current focus:** AI/ML malware detection research · automated security tooling · cloud & blockchain security · mentoring cybersecurity awareness programs.
 
 ---
 
-## 📫 **Let's Collaborate**
-
-> *"Great things in business are never done by one person. They're done by a team of people." - Steve Jobs*
-
-I'm always open to discussing **cybersecurity projects**, **research collaborations**, or **opportunities** to make the digital world safer.
+## `~$ fortune | cowsay`
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge)](https://raju4199.github.io)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge)](https://app.hackthebox.com/profile/)
-[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunter-orange?style=for-the-badge)]()
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
 </div>
 
 ---
 
+## `~$ ./connect.sh`
+
+```bash
+┌──(root㉿raju)-[~/contact]
+└─# nmap -sV raju.ranjan
+
+  PORT      STATE   SERVICE
+  25/tcp    open    📧 rajuaryan033@gmail.com
+  443/tcp   open    🌐 raju4199.github.io
+  1337/tcp  open    💀 tryhackme.com/p/raju4199
+  8080/tcp  open    📜 researchgate.net/publication/380350909
+
+  [!] Target is friendly. Engage for collaboration.
+```
+
+Open to **security research collaborations**, **pentesting projects**, and **opportunities** to make the digital world safer.
+
 <div align="center">
 
-### **⚡ "The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."**
-### **🚀 But we still need to make it work securely!**
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&color=00FF41&background=00000000&lines=Stay+Secure+🔒;Keep+Hacking+Ethically+⚡;Write+code.+Write+poetry.+🖋️;root%40raju%3A~%23+logout" alt="outro" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00ffff&background=000000&lines=Stay+Secure+🔒;Keep+Hacking+Ethically+⚡;Signing+OFF!+👋" />
-</h1>
-
-![Footer](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
-
----
-
-*Last Updated: ${new Date().toLocaleDateString()} | ⚡ Hehe Secure first*

@@ -1,49 +1,32 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002b12,100:00ff41&height=200&section=header&text=RAJU%20RANJAN&fontSize=64&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Offensive%20Security%20%E2%80%A2%20Researcher%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18" width="100%" alt="Raju Ranjan"/>
-
-<a href="https://raju4199.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=720&height=50&lines=root%40raju%3A~%23+whoami;Cyber+Security+Analyst+%40+QOS+Technology;Red+Teaming+%7C+Web+%26+API+%7C+Android+%7C+Wi-Fi;CEH+v12+%E2%80%A2+Published+Security+Researcher;I+break+things+so+you+can+fix+them+first." alt="typing intro"/>
-</a>
+<img src="./assets/header.svg" width="100%" alt="Raju Ranjan — Offensive Security"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raju4199.github.io-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=black&labelColor=0d1117)](https://raju4199.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajuranjann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rajuranjann/)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)](https://profile.hackthebox.com/profile/019dc86e-029e-722d-af64-09ab5d5aeb0d)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-raju4199-C11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/raju4199)
-[![Medium](https://img.shields.io/badge/Medium-Write--ups-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117)](https://medium.com/@Makishima_ShogO)
-[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rajuaryan033@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-raju4199.github.io-ff2d4b?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=0a0a0c)](https://raju4199.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-rajuranjann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0c)](https://www.linkedin.com/in/rajuranjann/)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0a0a0c)](https://profile.hackthebox.com/profile/019dc86e-029e-722d-af64-09ab5d5aeb0d)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-raju4199-C11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0a0a0c)](https://tryhackme.com/p/raju4199)
+[![Medium](https://img.shields.io/badge/MEDIUM-write--ups-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0c)](https://medium.com/@Makishima_ShogO)
+[![Email](https://img.shields.io/badge/EMAIL-say_hi-ff2d4b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:rajuaryan033@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=raju4199&style=flat-square&color=00ff41&label=INTRUSIONS+DETECTED" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=raju4199&style=flat-square&color=ff2d4b&label=INTRUSIONS+DETECTED" alt="profile views"/>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 > **I look at systems the way an attacker would, so teams can see how they break before someone else does.**
 > I explore the flaws behind how things are built, and research what it takes to secure the environment around them.
 
----
-
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
 ## `~$ whoami`
 
-```bash
-┌──(root㉿raju)-[~]
-└─# cat /etc/identity
-
-  [+] NAME .......... Raju Ranjan
-  [+] ROLE .......... Cyber Security Analyst @ QOS Technology
-  [+] BASE .......... Delhi, India 🇮🇳
-  [+] EDUCATION ..... B.E. CSE (Information Security), Chandigarh University
-  [+] CERT .......... EC-Council CEH v12
-  [+] RESEARCH ...... Author, "Web Based Vulnerabilities Modulation"
-  [+] FOCUS ......... Red Teaming · Web & API · Android · Wi-Fi · Infra
-  [+] MOTTO ......... "To beat a hacker, you need to think like one."
-
-  [✓] Session established. Authorized targets only.
-```
+<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="whoami"/>
+</div>
 
 <table>
 <tr>
@@ -68,19 +51,33 @@ I study the building blocks defenders rely on and turn what I find into **practi
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ ATTACK SURFACE ═══════════════════════════ -->
 ## `~$ nmap -sV --script attack-surface raju`
 
+<table border="0">
+<tr>
+<td width="58%" valign="middle">
+
 ```text
-PORT       STATE  SERVICE                 DETAILS
-22/tcp     open   red-teaming             adversary emulation · initial access · lateral movement · social engineering
-80/tcp     open   web-app-testing         OWASP Top 10 · auth & session flaws · business logic
-443/tcp    open   api-security            broken auth · IDOR/BOLA · logic bugs scanners miss
-5555/tcp   open   android-testing         static analysis · Frida instrumentation · insecure storage · SSL pinning bypass
-8021/tcp   open   wifi-pentesting         WPA/WPA2 handshakes · rogue APs · evil twin · wireless recon
-445/tcp    open   infrastructure          network recon · service exploitation · privesc · Active Directory
+PORT     STATE  SERVICE            SCOPE
+22/tcp   open   red-teaming        adversary emulation · initial access
+80/tcp   open   web-app-testing    OWASP Top 10 · auth & session flaws
+443/tcp  open   api-security       IDOR/BOLA · logic bugs scanners miss
+5555/tcp open   android-testing    Frida · SSL-pinning bypass · storage
+8021/tcp open   wifi-pentesting    WPA/WPA2 · rogue AP · evil twin
+445/tcp  open   infrastructure     recon · privesc · Active Directory
 ```
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="./assets/radar.svg" width="260" alt="attack surface radar"/>
+
+</td>
+</tr>
+</table>
 
 ### ⚔️ Arsenal
 
@@ -93,7 +90,7 @@ PORT       STATE  SERVICE                 DETAILS
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E34F26?style=for-the-badge&logo=gnubash&logoColor=white)
-![Bettercap](https://img.shields.io/badge/Bettercap-111111?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Bettercap](https://img.shields.io/badge/Bettercap-111111?style=for-the-badge&logo=gnubash&logoColor=ff2d4b)
 ![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=android&logoColor=white)
 ![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -104,8 +101,9 @@ PORT       STATE  SERVICE                 DETAILS
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ CAREER ═══════════════════════════ -->
 ## `~$ cat ~/.history/career.log`
 
 ```diff
@@ -121,8 +119,9 @@ PORT       STATE  SERVICE                 DETAILS
 !                      Gold Medal: Academic Excellence Award
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## `~$ ls -la ~/projects --featured`
 
 <table>
@@ -182,8 +181,9 @@ My personal collection of tooling and scripts for recon and bug hunting in web a
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 ## `~$ ./achievements --list`
 
 | | Achievement | Issuer / Event | Result | Year |
@@ -195,8 +195,9 @@ My personal collection of tooling and scripts for recon and bug hunting in web a
 | 🥉 | **2nd Runner-Up** | Smart India Hackathon Qualifiers | Top 3 | 2023 |
 | 🎖️ | **CEH v12** | EC-Council | Certified Ethical Hacker | 2023 |
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ NOW ═══════════════════════════ -->
 ## `~$ cat /proc/now`
 
 ```yaml
@@ -213,8 +214,9 @@ next:
   - [~] Hall of fame entries through responsible disclosure
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## `~$ git log --stat`
 
 <div align="center">
@@ -222,15 +224,16 @@ next:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raju4199&theme=github_dark" height="165" alt="GitHub stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raju4199&theme=github_dark" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=raju4199&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=raju4199&hide_border=true&background=0a0a0c&ring=ff2d4b&fire=ff2d4b&currStreakLabel=ff2d4b&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Contribution streak"/>
 
-<h4>Intrusion Activity Log</h4>
-<img src="https://ghchart.rshah.org/00ff41/raju4199" width="100%" alt="Contribution chart"/>
+<br/><br/>
+
+<b>Intrusion Activity Log</b><br/>
+<img src="https://ghchart.rshah.org/ff2d4b/raju4199" width="100%" alt="Contribution chart"/>
 
 </div>
 
----
-
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 ## `~$ ./connect.sh`
 
 ```bash
@@ -245,8 +248,6 @@ next:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=520&height=45&lines=Stay+secure+%F0%9F%94%92;Hack+ethically+%E2%9A%A1;root%40raju%3A~%23+logout" alt="outro"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:002b12,100:000000&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="logout"/>
 
 </div>

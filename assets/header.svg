@@ -56,7 +56,7 @@
 
     <!-- name with glitch clones -->
     <g class="flick">
-      <text x="40" y="150" class="name" font-size="76" fill="#00e0ff" class="g2" opacity="0">RAJU RANJAN</text>
+      <text x="40" y="150" class="name g2" font-size="76" fill="#00e0ff" opacity="0">RAJU RANJAN</text>
       <text x="40" y="150" class="name g1" font-size="76" fill="#ff2d4b">RAJU RANJAN</text>
       <text x="40" y="150" class="name" font-size="76" fill="url(#title)">RAJU RANJAN</text>
     </g>

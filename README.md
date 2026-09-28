@@ -198,25 +198,18 @@ My personal collection of tooling and scripts for recon and bug hunting in web a
 
 <br/><br/>
 
-<b>Intrusion Activity Log</b><br/>
-<img src="https://ghchart.rshah.org/ff2d4b/raju4199" width="100%" alt="Contribution chart"/>
+<img src="./assets/activity.svg" width="100%" alt="Intrusion activity log"/>
 
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 ## `~$ ./connect.sh`
 
-```bash
-┌──(root㉿raju)-[~/contact]
-└─# ./handshake --target you
-
-  [*] Pentests · research collaborations · bug bounty finds · offensive-security talk
-  [*] Inbox .......... rajuaryan033@gmail.com
-  [*] Portfolio ...... https://raju4199.github.io
-  [+] Handshake captured. Let's talk security. 🤝
-```
-
 <div align="center">
+
+<img src="./assets/connect.svg" width="100%" alt="connect"/>
+
+<br/><br/>
 
 <img src="./assets/footer.svg" width="100%" alt="logout"/>
 

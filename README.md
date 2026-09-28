@@ -183,19 +183,9 @@ My personal collection of tooling and scripts for recon and bug hunting in web a
 <!-- ═══════════════════════════ NOW ═══════════════════════════ -->
 ## `~$ cat /proc/now`
 
-```yaml
-status:     online
-working_on:
-  - Offensive security assessments at QOS Technology
-  - Bug hunting in web applications & APIs
-  - Turning research and findings into write-ups
-focus:      [red-teaming, web-and-api, android, security-research]
-next:
-  - [ ] Advanced hands-on offensive certification
-  - [ ] Follow-up research on web vulnerability patterns
-  - [ ] Open-source tooling to automate my testing workflow
-  - [~] Hall of fame entries through responsible disclosure
-```
+<div align="center">
+<img src="./assets/now.svg" width="100%" alt="status now"/>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -219,11 +209,17 @@ next:
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 ## `~$ ./connect.sh`
 
+```bash
+┌──(root㉿raju)-[~/contact]
+└─# ./handshake --target you
+
+  [*] Pentests · research collaborations · bug bounty finds · offensive-security talk
+  [*] Inbox .......... rajuaryan033@gmail.com
+  [*] Portfolio ...... https://raju4199.github.io
+  [+] Handshake captured. Let's talk security. 🤝
+```
+
 <div align="center">
-
-<img src="./assets/connect.svg" width="100%" alt="connect"/>
-
-<br/><br/>
 
 <img src="./assets/footer.svg" width="100%" alt="logout"/>
 

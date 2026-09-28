@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" fill="none" role="img" aria-label="connect">
+  <defs>
+    <linearGradient id="cowin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1116"/><stop offset="1" stop-color="#07090c"/>
+    </linearGradient>
+    <clipPath id="coround"><rect x="8" y="8" width="984" height="224" rx="12"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace}
+      .cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+      .r{opacity:0;animation:show .01s linear forwards}@keyframes show{to{opacity:1}}
+      .pulse{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}
+    </style>
+  </defs>
+  <rect x="8" y="8" width="984" height="224" rx="12" fill="url(#cowin)" stroke="#ff2d4b" stroke-opacity="0.35"/>
+  <g clip-path="url(#coround)">
+    <rect x="8" y="8" width="984" height="38" fill="#12161c"/>
+    <circle cx="34" cy="27" r="6" fill="#ff5f56"/><circle cx="56" cy="27" r="6" fill="#ffbd2e"/><circle cx="78" cy="27" r="6" fill="#27c93f"/>
+    <text x="500" y="32" text-anchor="middle" class="mono" font-size="14" fill="#7d8794">raju@redteam: ~/contact</text>
+
+    <g class="mono" font-size="15">
+      <text x="30" y="80" fill="#5b6570"><tspan fill="#ff2d4b">➜</tspan> <tspan fill="#6ea8fe">~</tspan> <tspan fill="#c9d1d9">./handshake --target you</tspan><tspan class="cur" fill="#ff2d4b">▊</tspan></text>
+
+      <text class="r" style="animation-delay:.4s" x="30" y="116" fill="#3fb950">[*] <tspan fill="#c9d1d9">Open to pentests · research collab · bug bounty · offensive-security talk</tspan></text>
+      <text class="r" style="animation-delay:.9s" x="30" y="146" fill="#3fb950">[*] <tspan fill="#c9d1d9">inbox ......... </tspan><tspan fill="#6ea8fe">rajuaryan033@gmail.com</tspan></text>
+      <text class="r" style="animation-delay:1.3s" x="30" y="176" fill="#3fb950">[*] <tspan fill="#c9d1d9">portfolio ..... </tspan><tspan fill="#6ea8fe">https://raju4199.github.io</tspan></text>
+      <text class="r" style="animation-delay:1.8s" x="30" y="210" fill="#ff2d4b">[+] <tspan fill="#ffb3b3" class="pulse">handshake captured — let's talk security.</tspan> 🤝</text>
+    </g>
+  </g>
+</svg>

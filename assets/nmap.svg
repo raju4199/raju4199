@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" fill="none" role="img" aria-label="attack surface scan">
+  <defs>
+    <linearGradient id="nwin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1116"/><stop offset="1" stop-color="#07090c"/>
+    </linearGradient>
+    <clipPath id="nround"><rect x="8" y="8" width="624" height="314" rx="12"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace}
+      .cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+      .r{opacity:0;animation:show .01s linear forwards}@keyframes show{to{opacity:1}}
+    </style>
+  </defs>
+  <rect x="8" y="8" width="624" height="314" rx="12" fill="url(#nwin)" stroke="#ff2d4b" stroke-opacity="0.35"/>
+  <g clip-path="url(#nround)">
+    <rect x="8" y="8" width="624" height="38" fill="#12161c"/>
+    <circle cx="34" cy="27" r="6" fill="#ff5f56"/><circle cx="56" cy="27" r="6" fill="#ffbd2e"/><circle cx="78" cy="27" r="6" fill="#27c93f"/>
+    <text x="320" y="32" text-anchor="middle" class="mono" font-size="14" fill="#7d8794">raju@redteam: ~# nmap</text>
+
+    <g class="mono">
+      <text x="26" y="74" font-size="14" fill="#5b6570"><tspan fill="#ff2d4b">➜</tspan> <tspan fill="#c9d1d9">nmap -sV --script attack-surface raju</tspan><tspan class="cur" fill="#ff2d4b">▊</tspan></text>
+
+      <!-- header -->
+      <text x="26" y="104" font-size="13" fill="#6ea8fe" letter-spacing="1">PORT       STATE   SERVICE           SCOPE</text>
+      <line x1="26" y1="112" x2="614" y2="112" stroke="#1f2732"/>
+
+      <g font-size="13" fill="#c9d1d9">
+        <text class="r" style="animation-delay:.3s" x="26" y="134"><tspan fill="#3fb950">22/tcp</tspan>    <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">red-teaming</tspan>       adversary emulation · access</text>
+        <text class="r" style="animation-delay:.6s" x="26" y="158"><tspan fill="#3fb950">80/tcp</tspan>    <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">web-app-test</tspan>      OWASP Top 10 · auth flaws</text>
+        <text class="r" style="animation-delay:.9s" x="26" y="182"><tspan fill="#3fb950">443/tcp</tspan>   <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">api-security</tspan>      IDOR/BOLA · logic bugs</text>
+        <text class="r" style="animation-delay:1.2s" x="26" y="206"><tspan fill="#3fb950">5555/tcp</tspan>  <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">android-test</tspan>      Frida · pinning bypass</text>
+        <text class="r" style="animation-delay:1.5s" x="26" y="230"><tspan fill="#3fb950">8021/tcp</tspan>  <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">wifi-pentest</tspan>      WPA2 · rogue AP · evil twin</text>
+        <text class="r" style="animation-delay:1.8s" x="26" y="254"><tspan fill="#3fb950">445/tcp</tspan>   <tspan fill="#3fb950">open</tspan>   <tspan fill="#ff8a8a">infra-pentest</tspan>     recon · privesc · AD</text>
+      </g>
+      <line x1="26" y1="268" x2="614" y2="268" stroke="#1f2732"/>
+      <text class="r" style="animation-delay:2.1s" x="26" y="292" font-size="13" fill="#ff2d4b">[✓] 6 services up · full-stack offensive coverage</text>
+    </g>
+  </g>
+</svg>

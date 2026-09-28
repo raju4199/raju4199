@@ -58,22 +58,14 @@ I study the building blocks defenders rely on and turn what I find into **practi
 
 <table border="0">
 <tr>
-<td width="58%" valign="middle">
+<td width="62%" valign="middle">
 
-```text
-PORT     STATE  SERVICE            SCOPE
-22/tcp   open   red-teaming        adversary emulation · initial access
-80/tcp   open   web-app-testing    OWASP Top 10 · auth & session flaws
-443/tcp  open   api-security       IDOR/BOLA · logic bugs scanners miss
-5555/tcp open   android-testing    Frida · SSL-pinning bypass · storage
-8021/tcp open   wifi-pentesting    WPA/WPA2 · rogue AP · evil twin
-445/tcp  open   infrastructure     recon · privesc · Active Directory
-```
+<img src="./assets/nmap.svg" width="100%" alt="attack surface scan"/>
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="38%" valign="middle" align="center">
 
-<img src="./assets/radar.svg" width="260" alt="attack surface radar"/>
+<img src="./assets/radar.svg" width="250" alt="attack surface radar"/>
 
 </td>
 </tr>
@@ -106,18 +98,9 @@ PORT     STATE  SERVICE            SCOPE
 <!-- ═══════════════════════════ CAREER ═══════════════════════════ -->
 ## `~$ cat ~/.history/career.log`
 
-```diff
-+ [2025-06 → present]  Cyber Security Analyst ........ QOS Technology Pvt. Ltd.
-!                      Offensive security assessments & security research
-+ [2025-04 → 2025-05]  Cyber Security Intern .......... QOS Technology Pvt. Ltd.
-!                      Promoted to Analyst after two months
-+ [2024]               Published Research ............. ResearchGate
-!                      "Web Based Vulnerabilities Modulation"
-+ [2023]               CEH v12 ........................ EC-Council
-+ [2023]               National Hackathon Circuit ..... KAVACH · Intel oneAPI × IIT Roorkee · SIH
-+ [2020 → 2024]        B.E. CSE (Information Security)  Chandigarh University
-!                      Gold Medal: Academic Excellence Award
-```
+<div align="center">
+<img src="./assets/career.svg" width="100%" alt="career log"/>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -236,17 +219,11 @@ next:
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 ## `~$ ./connect.sh`
 
-```bash
-┌──(root㉿raju)-[~/contact]
-└─# ./handshake --target you
-
-  [*] Pentests · research collaborations · bug bounty finds · offensive-security talk
-  [*] Inbox .......... rajuaryan033@gmail.com
-  [*] Portfolio ...... https://raju4199.github.io
-  [+] Handshake captured. Let's talk security. 🤝
-```
-
 <div align="center">
+
+<img src="./assets/connect.svg" width="100%" alt="connect"/>
+
+<br/><br/>
 
 <img src="./assets/footer.svg" width="100%" alt="logout"/>
 

@@ -1,210 +1,232 @@
-<!-- ANIMATED MATRIX HEADER -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=180&section=header&text=RAJU%20RANJAN&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CEH%20v12&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&duration=3000&pause=600&color=00FF41&background=00000000&lines=root%40raju%3A~%23+whoami;%3E+Penetration+Tester+🕵️;%3E+Published+Security+Researcher+📜;%3E+Poet+by+night+🖋️;%3E+sudo+rm+-rf+/vulnerabilities;ACCESS+GRANTED+✅" alt="typing-intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002b12,100:00ff41&height=200&section=header&text=RAJU%20RANJAN&fontSize=64&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Offensive%20Security%20%E2%80%A2%20Researcher%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18" width="100%" alt="Raju Ranjan"/>
 
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" height="120" alt="matrix-rain"/>
+<a href="https://raju4199.github.io">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=720&height=50&lines=root%40raju%3A~%23+whoami;Cyber+Security+Analyst+%40+QOS+Technology;Red+Teaming+%7C+Web+%26+API+%7C+Android+%7C+Wi-Fi;CEH+v12+%E2%80%A2+Published+Security+Researcher;I+break+things+so+you+can+fix+them+first." alt="typing intro"/>
+</a>
 
-*"In a world of vulnerabilities, I build defenses."*
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-rajuaryan033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuaryan033@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajuranjann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajuranjann/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2016%25-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/raju4199)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Published-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
-[![Portfolio](https://img.shields.io/badge/Portfolio-raju4199.github.io-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://raju4199.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raju4199.github.io-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=black&labelColor=0d1117)](https://raju4199.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajuranjann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rajuranjann/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)](https://profile.hackthebox.com/profile/019dc86e-029e-722d-af64-09ab5d5aeb0d)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-raju4199-C11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/raju4199)
+[![Medium](https://img.shields.io/badge/Medium-Write--ups-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117)](https://medium.com/@Makishima_ShogO)
+[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rajuaryan033@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=raju4199&style=for-the-badge&color=00ff41&label=INTRUSIONS+DETECTED" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=raju4199&style=flat-square&color=00ff41&label=INTRUSIONS+DETECTED" alt="profile views"/>
 
 </div>
 
+<br/>
+
+> **I look at systems the way an attacker would, so teams can see how they break before someone else does.**
+> I explore the flaws behind how things are built, and research what it takes to secure the environment around them.
+
 ---
 
-## `~$ cat about.txt`
+## `~$ whoami`
 
 ```bash
-┌──(root㉿raju)-[~/about]
-└─# ./identity.sh
+┌──(root㉿raju)-[~]
+└─# cat /etc/identity
 
-  [+] NAME........: Raju Ranjan
-  [+] ROLE........: Cybersecurity Engineer
-  [+] CERT........: EC-Council CEH v12 (2023)
-  [+] FOCUS.......: Offensive Security | VAPT | Secure Dev
-  [+] RESEARCH....: Published Author — Web Vulnerabilities Modulation
-  [+] LEARNING....: Cloud Security, Blockchain Security
-  [+] SIDE-QUEST..: Poetry & Creative Writing 🖋️
-  [+] MOTTO.......: "To beat a hacker, you need to think like one."
+  [+] NAME .......... Raju Ranjan
+  [+] ROLE .......... Cyber Security Analyst @ QOS Technology
+  [+] BASE .......... Delhi, India 🇮🇳
+  [+] EDUCATION ..... B.E. CSE (Information Security), Chandigarh University
+  [+] CERT .......... EC-Council CEH v12
+  [+] RESEARCH ...... Author, "Web Based Vulnerabilities Modulation"
+  [+] FOCUS ......... Red Teaming · Web & API · Android · Wi-Fi · Infra
+  [+] MOTTO ......... "To beat a hacker, you need to think like one."
 
-  [✓] Exploit complete. No systems were harmed... permanently.
+  [✓] Session established. Authorized targets only.
 ```
 
-I specialize in **offensive security** and **defensive strategy** — penetration testing, vulnerability assessment, and building applications that are secure by design.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Attacker's-eye view
+Web and Android apps, Wi-Fi networks and internal infrastructure, tested the way a real adversary would: **from recon to proof of impact**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Research defenders can use
+I study the building blocks defenders rely on and turn what I find into **practical guidance**, starting with a published paper on web vulnerabilities.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏆 Proven under pressure
+**CEH v12**, Grand Finalist at the **KAVACH** national hackathon, and a **Gold Medal** for academic excellence.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `~$ ls /opt/penetration-tools/` ⚔️
+## `~$ nmap -sV --script attack-surface raju`
 
-<div align="center">
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Exploitation-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Attack_OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Nessus](https://img.shields.io/badge/Tenable_Nessus-Vulnerability_Scanning-00C176?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
-
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi_Cracking-E34F26?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.aircrack-ng.org/)
-[![WiFi Pineapple](https://img.shields.io/badge/🍍_WiFi_Pineapple-Rogue_AP_/_MITM-FFD700?style=for-the-badge&logoColor=black)](https://shop.hak5.org/products/wifi-pineapple)
-[![Android Pentesting](https://img.shields.io/badge/Android_Pentesting-Mobile_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-
-[![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-Recon_%26_Scanning-0E83CD?style=for-the-badge&logo=gnometerminal&logoColor=white)](#)
-
-</div>
-
-```bash
-┌──(root㉿raju)-[/opt/penetration-tools]
-└─# ./arsenal.sh --status
-
-  [🔥] burpsuite ........ LOADED   → web app exploitation & proxy interception
-  [🐉] kali-linux ....... BOOTED   → primary attack platform
-  [🟢] nessus ........... ARMED    → enterprise vulnerability scanning
-  [📡] aircrack-ng ...... LISTENING → WPA/WPA2 handshake capture & cracking
-  [🍍] wifi-pineapple ... DEPLOYED → rogue AP, evil twin & MITM attacks
-  [🤖] android-pentest .. ACTIVE   → APK reversing, Frida, MobSF, ADB
-
-  [✓] All weapons hot. Authorized targets only. 😈
+```text
+PORT       STATE  SERVICE                 DETAILS
+22/tcp     open   red-teaming             adversary emulation · initial access · lateral movement · social engineering
+80/tcp     open   web-app-testing         OWASP Top 10 · auth & session flaws · business logic
+443/tcp    open   api-security            broken auth · IDOR/BOLA · logic bugs scanners miss
+5555/tcp   open   android-testing         static analysis · Frida instrumentation · insecure storage · SSL pinning bypass
+8021/tcp   open   wifi-pentesting         WPA/WPA2 handshakes · rogue APs · evil twin · wireless recon
+445/tcp    open   infrastructure          network recon · service exploitation · privesc · Active Directory
 ```
 
-### 💻 Dev & Scripting Stack
+### ⚔️ Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,bash,js,react,vite,nodejs,mongodb,mysql,wordpress,linux,kali,git,github&perline=7" alt="skill icons" />
-</div>
 
-![Web App Testing](https://img.shields.io/badge/Web_App_Pentesting-FF4757?style=flat-square&logo=owasp&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Security-2ED573?style=flat-square&logo=swagger&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Pentesting-1E90FF?style=flat-square&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall_%26_Router_Audits-FFA502?style=flat-square&logo=pfsense&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-FF6348?style=flat-square&logo=hackerone&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E34F26?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-111111?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=android&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,js,react,nodejs,mongodb,mysql,linux,kali,docker,git,github&perline=13" alt="dev stack"/>
+
+</div>
 
 ---
 
-## `~$ cat research/published_paper.pdf` 📜
+## `~$ cat ~/.history/career.log`
 
-<div align="center">
+```diff
++ [2025-06 → present]  Cyber Security Analyst ........ QOS Technology Pvt. Ltd.
+!                      Offensive security assessments & security research
++ [2025-04 → 2025-05]  Cyber Security Intern .......... QOS Technology Pvt. Ltd.
+!                      Promoted to Analyst after two months
++ [2024]               Published Research ............. ResearchGate
+!                      "Web Based Vulnerabilities Modulation"
++ [2023]               CEH v12 ........................ EC-Council
++ [2023]               National Hackathon Circuit ..... KAVACH · Intel oneAPI × IIT Roorkee · SIH
++ [2020 → 2024]        B.E. CSE (Information Security)  Chandigarh University
+!                      Gold Medal: Academic Excellence Award
+```
 
-[![Paper](https://img.shields.io/badge/📄_PUBLISHED_RESEARCH_PAPER-Web_based_Vulnerabilities_Modulation-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
+---
 
-</div>
+## `~$ ls -la ~/projects --featured`
 
-> ### **"Web based Vulnerabilities Modulation: A Comprehensive Study on Web Vulnerabilities"**
->
-> A comprehensive study dissecting modern web attack vectors — **SQL Injection, XSS, CSRF, Broken Access Control** — with practical modulation and demonstration of each vulnerability class.
->
-> 🔗 **Read it on ResearchGate →** [researchgate.net/publication/380350909](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [LLMScan](https://github.com/raju4199/LLM_Tools)
+**The Nikto for Large Language Models.** An open-source CLI that probes any LLM endpoint for security vulnerabilities and generates a detailed report.
+
+`Python` `AI Security` `LLM Red Teaming`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [BlackOps Wireless](https://github.com/raju4199/BlackOps-Wireless)
+A self-contained lab for wireless security auditing: one install script and a menu-driven launcher for **Airgeddon, Wifite and Bettercap** on Kali.
+
+`Shell` `Wi-Fi` `Kali Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [WebSec-Suite](https://github.com/raju4199/WebSec-Suite)
+A unified web security scanner that chains multiple tools into one interface, **from recon to detailed application testing**.
+
+`Shell` `Recon` `Web Security`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Web Vulnerabilities Modulation](https://github.com/raju4199/web-vulnerabilities-modulation)
+A hands-on platform simulating **SQLi, XSS and command execution** to show how attackers breach the CIA triad. Companion to my [published paper](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities).
+
+`JavaScript` `OWASP` `Secure Dev`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 [Malware Detection using LLMs](https://github.com/raju4199/Enhanced-Malware-Detection-using-LLM-)
+AI-powered malware analysis with a fine-tuned **distilBERT** model for classifying malicious samples.
+
+`Python` `Transformers` `Malware Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [Bug Bounty Toolkit](https://github.com/raju4199/bugbounty-tools-raju)
+My personal collection of tooling and scripts for recon and bug hunting in web applications and APIs.
+
+`Bug Bounty` `Recon` `Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `~$ ./achievements --list`
 
-| | Achievement | Event | Result | Year |
-|---|---|---|---|---|
-| 📜 | **Published Researcher** | ResearchGate — Web Vulnerabilities Modulation | Author | 2024 |
-| 🏆 | **Grand Finalist** | KAVACH National Cybersecurity Hackathon | Top 3 Teams | 2023 |
+| | Achievement | Issuer / Event | Result | Year |
+|:-:|---|---|---|:-:|
+| 📜 | **Published Researcher** | [ResearchGate: Web Vulnerabilities Modulation](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities) | Author | 2024 |
+| 🏅 | **Academic Excellence Award** | Chandigarh University | Gold Medal, most hackathon participations | 2024 |
+| 🏆 | **Grand Finalist** | KAVACH National Cybersecurity Hackathon | Top 3 teams | 2023 |
 | 🥇 | **5th Place** | Intel oneAPI Hackathon × IIT Roorkee | Top 5 | 2023 |
 | 🥉 | **2nd Runner-Up** | Smart India Hackathon Qualifiers | Top 3 | 2023 |
-| 🎖️ | **CEH v12 Certified** | EC-Council | Certified Ethical Hacker | 2023 |
-| 🔥 | **TryHackMe** | Continuous CTF & Labs | Top 16% Worldwide | 2024 |
-
-<div align="center">
-
-![CEH v12](https://img.shields.io/badge/🎖️_EC--Council-CEH_v12_Certified-FF0000?style=for-the-badge)
-![KAVACH](https://img.shields.io/badge/🏆_KAVACH-Grand_Finalist-FFD700?style=for-the-badge)
-![Intel](https://img.shields.io/badge/🥇_Intel_oneAPI-Top_5-0071C5?style=for-the-badge)
-
-![SIH](https://img.shields.io/badge/🥉_SIH_2023-2nd_Runner--Up-FF6B35?style=for-the-badge)
-![THM](https://img.shields.io/badge/🔥_TryHackMe-Top_16%25_Worldwide-88CC14?style=for-the-badge)
-![Paper](https://img.shields.io/badge/📜_ResearchGate-Published_Author-00CCBB?style=for-the-badge)
-
-</div>
+| 🎖️ | **CEH v12** | EC-Council | Certified Ethical Hacker | 2023 |
 
 ---
 
-## `~$ ls projects/ --featured`
+## `~$ cat /proc/now`
 
-### 🦠 Enhanced Malware Detection using LLM
-> AI-powered malware analysis — fine-tuned **distilBERT** achieving near-perfect detection on test sets. *(Research in progress)*
->
-> `Python` `Machine Learning` `Transformers` `Malware Analysis`
-
-### 🔌 Plug-and-Play Security Audit Tool
-> Portable, cross-platform auditing device built on **ATTiny85** with a **Streamlit** dashboard — automated system logging and vulnerability scanning on plug-in.
->
-> `C++` `Batch` `ATTiny85` `Streamlit`
-
-### 🌐 Web Vulnerabilities Modulation Platform
-> Interactive learning platform demonstrating **SQLi, XSS, CSRF, and Broken Access Control** hands-on — backed by my [published research paper](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities).
->
-> `React` `Vite` `SQL` `OWASP`
-
----
-
-## `~$ vim ~/writer/poetry.txt` 🖋️
-
-```text
-┌──(poet㉿raju)-[~/writer]
-└─# cat soul.dump
-
-  When firewalls sleep and ports shut tight,
-  I trade my shell for pen at night —
-  The same mind that breaks a system's art,
-  Writes verses that can break a heart.
-
-  ~ hacker by day, poet by night ~
+```yaml
+status:     online
+working_on:
+  - Offensive security assessments at QOS Technology
+  - Bug hunting in web applications & APIs
+  - Turning research and findings into write-ups
+focus:      [red-teaming, web-and-api, android, security-research]
+next:
+  - [ ] Advanced hands-on offensive certification
+  - [ ] Follow-up research on web vulnerability patterns
+  - [ ] Open-source tooling to automate my testing workflow
+  - [~] Hall of fame entries through responsible disclosure
 ```
 
-![Writer](https://img.shields.io/badge/✍️_Writer-Poetry_%26_Verse-E91E63?style=for-the-badge)
-![Shayari](https://img.shields.io/badge/🪶_Shayari-Heartfelt_Lines-9C27B0?style=for-the-badge)
-![Creative](https://img.shields.io/badge/🎭_Creative-Storytelling-FF5722?style=for-the-badge)
-
-> *Two terminals open at midnight — one running exploits, one writing poems.*
-
 ---
 
-## `~$ git stats`
+## `~$ git log --stat`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raju4199&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju4199&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raju4199&theme=github_dark" height="165" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raju4199&theme=github_dark" height="165" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raju4199&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Intrusion+Activity+Log" width="95%" alt="activity graph" />
+<img src="https://streak-stats.demolab.com?user=raju4199&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Contribution streak"/>
 
-</div>
+<h4>Intrusion Activity Log</h4>
+<img src="https://ghchart.rshah.org/00ff41/raju4199" width="100%" alt="Contribution chart"/>
 
----
-
-## `~$ cat roadmap.md`
-
-```mermaid
-graph LR
-    A[🔓 Curiosity for Hacking] --> B[🎓 Formal Education]
-    B --> C[📜 CEH v12]
-    C --> D[🏆 National Hackathons]
-    D --> E[📄 Published Research]
-    E --> F[🛡️ Cybersecurity Engineer]
-    style A fill:#ff4757,color:#fff
-    style F fill:#00ff41,color:#000
-```
-
-**Current focus:** AI/ML malware detection research · automated security tooling · cloud & blockchain security · mentoring cybersecurity awareness programs.
-
----
-
-## `~$ fortune | cowsay`
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
 </div>
 
 ---
@@ -213,23 +235,18 @@ graph LR
 
 ```bash
 ┌──(root㉿raju)-[~/contact]
-└─# nmap -sV raju.ranjan
+└─# ./handshake --target you
 
-  PORT      STATE   SERVICE
-  25/tcp    open    📧 rajuaryan033@gmail.com
-  443/tcp   open    🌐 raju4199.github.io
-  1337/tcp  open    💀 tryhackme.com/p/raju4199
-  8080/tcp  open    📜 researchgate.net/publication/380350909
-
-  [!] Target is friendly. Engage for collaboration.
+  [*] Pentests · research collaborations · bug bounty finds · offensive-security talk
+  [*] Inbox .......... rajuaryan033@gmail.com
+  [*] Portfolio ...... https://raju4199.github.io
+  [+] Handshake captured. Let's talk security. 🤝
 ```
-
-Open to **security research collaborations**, **pentesting projects**, and **opportunities** to make the digital world safer.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&color=00FF41&background=00000000&lines=Stay+Secure+🔒;Keep+Hacking+Ethically+⚡;Write+code.+Write+poetry.+🖋️;root%40raju%3A~%23+logout" alt="outro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=520&height=45&lines=Stay+secure+%F0%9F%94%92;Hack+ethically+%E2%9A%A1;root%40raju%3A~%23+logout" alt="outro"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:002b12,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>

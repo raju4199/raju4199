@@ -169,14 +169,11 @@ My personal collection of tooling and scripts for recon and bug hunting in web a
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 ## `~$ ./achievements --list`
 
-| | Achievement | Issuer / Event | Result | Year |
-|:-:|---|---|---|:-:|
-| 📜 | **Published Researcher** | [ResearchGate: Web Vulnerabilities Modulation](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities) | Author | 2024 |
-| 🏅 | **Academic Excellence Award** | Chandigarh University | Gold Medal, most hackathon participations | 2024 |
-| 🏆 | **Grand Finalist** | KAVACH National Cybersecurity Hackathon | Top 3 teams | 2023 |
-| 🥇 | **5th Place** | Intel oneAPI Hackathon × IIT Roorkee | Top 5 | 2023 |
-| 🥉 | **2nd Runner-Up** | Smart India Hackathon Qualifiers | Top 3 | 2023 |
-| 🎖️ | **CEH v12** | EC-Council | Certified Ethical Hacker | 2023 |
+<div align="center">
+<img src="./assets/achievements.svg" width="100%" alt="achievements"/>
+
+<sub>📄 Published paper → <a href="https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities">ResearchGate: Web Based Vulnerabilities Modulation</a></sub>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 

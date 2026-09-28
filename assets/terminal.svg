@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" fill="none" role="img" aria-label="whoami terminal">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1116"/>
+      <stop offset="1" stop-color="#07090c"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="8" y="8" width="984" height="284" rx="12"/></clipPath>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace; font-size: 17px; }
+      .cur { animation: blink 1s steps(1) infinite; } @keyframes blink { 50%{opacity:0} }
+      .l { opacity: 0; }
+      .l1 { animation: show .01s linear .3s forwards; }
+      .l2 { animation: show .01s linear 1.4s forwards; }
+      .l3 { animation: show .01s linear 2.3s forwards; }
+      .l4 { animation: show .01s linear 3.2s forwards; }
+      .l5 { animation: show .01s linear 4.1s forwards; }
+      .l6 { animation: show .01s linear 5.0s forwards; }
+      @keyframes show { to { opacity: 1; } }
+      .type1 { animation: t1 1s steps(24) .3s forwards; } @keyframes t1 { to { width: 250px; } }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="8" y="8" width="984" height="284" rx="12" fill="url(#win)" stroke="#ff2d4b" stroke-opacity="0.35"/>
+  <g clip-path="url(#round)">
+    <!-- title bar -->
+    <rect x="8" y="8" width="984" height="38" fill="#12161c"/>
+    <circle cx="34" cy="27" r="6" fill="#ff5f56"/>
+    <circle cx="56" cy="27" r="6" fill="#ffbd2e"/>
+    <circle cx="78" cy="27" r="6" fill="#27c93f"/>
+    <text x="500" y="32" text-anchor="middle" class="mono" font-size="14" fill="#7d8794">raju@redteam: ~/whoami</text>
+
+    <!-- body -->
+    <g class="mono">
+      <!-- command being typed -->
+      <text x="30" y="86" fill="#5b6570"><tspan fill="#ff2d4b">➜</tspan> <tspan fill="#6ea8fe">~</tspan> <tspan fill="#c9d1d9">whoami --full</tspan><tspan class="cur" fill="#ff2d4b">▊</tspan></text>
+
+      <text x="30" y="120" class="l l1" fill="#3fb950">[+] name.......: <tspan fill="#c9d1d9">Raju Ranjan</tspan></text>
+      <text x="30" y="150" class="l l2" fill="#3fb950">[+] role.......: <tspan fill="#c9d1d9">Cyber Security Analyst @ QOS Technology</tspan></text>
+      <text x="30" y="180" class="l l3" fill="#3fb950">[+] specialty..: <tspan fill="#ff8a8a">Red Teaming · Web/API · Android · Wi-Fi · Infra</tspan></text>
+      <text x="30" y="210" class="l l4" fill="#3fb950">[+] creds......: <tspan fill="#c9d1d9">CEH v12 · Published Researcher · Gold Medalist</tspan></text>
+      <text x="30" y="240" class="l l5" fill="#3fb950">[+] location...: <tspan fill="#c9d1d9">Delhi, India</tspan></text>
+      <text x="30" y="272" class="l l6" fill="#ff2d4b">[✓] <tspan fill="#ffb3b3">"To beat a hacker, you need to think like one."</tspan> <tspan class="cur" fill="#ff2d4b">▊</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="208" viewBox="0 0 500 208" fill="none" role="img" aria-label="Web Vulns Modulation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1116"/><stop offset="1" stop-color="#08090c"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a371f7" stop-opacity="0"/><stop offset="0.5" stop-color="#a371f7" stop-opacity="0.10"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></linearGradient>
+    <clipPath id="cl"><rect x="2" y="2" width="496" height="204" rx="12"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace}
+      .dot{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}
+      .chip{opacity:0;animation:fin .5s ease .6s forwards}@keyframes fin{to{opacity:1}}
+      .brd{animation:brd 3s ease-in-out infinite}@keyframes brd{50%{stroke-opacity:.7}}
+    </style>
+  </defs>
+  <rect x="2" y="2" width="496" height="204" rx="12" fill="url(#bg)"/>
+  <g clip-path="url(#cl)">
+    <rect x="2" y="2" width="6" height="204" fill="#a371f7" opacity="0.9"/>
+    <g><circle cx="34" cy="44" r="9.5" fill="none" stroke="#a371f7" stroke-width="1.8"/><ellipse cx="34" cy="44" rx="4" ry="9.5" fill="none" stroke="#a371f7" stroke-width="1.5"/><line x1="24.5" y1="44" x2="43.5" y2="44" stroke="#a371f7" stroke-width="1.5"/></g>
+    <text x="66" y="40" class="mono" font-size="17" font-weight="700" fill="#a371f7">Web Vulns Modulation</text>
+    <text x="66" y="58" class="mono" font-size="11" fill="#6e7681">github.com/raju4199/web-vulnerabilities-modulation</text>
+    <circle cx="430" cy="34" r="4" fill="#3fb950" class="dot"/>
+    <text x="442" y="38" class="mono" font-size="10.5" fill="#7d8794">RESEARCH</text>
+    <text x="28" y="96" class="mono" font-size="12.5" fill="#c9d1d9">A hands-on platform simulating SQLi, XSS &amp;</text><text x="28" y="118" class="mono" font-size="12.5" fill="#c9d1d9">command execution to show how attackers breach</text><text x="28" y="140" class="mono" font-size="12.5" fill="#c9d1d9">the CIA triad. Companion to my research paper.</text>
+    <g class="chip"><rect x="28" y="176" width="94" height="22" rx="5" fill="#161b22" stroke="#a371f7" stroke-opacity="0.35"/><text x="75" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">JavaScript</text><rect x="130" y="176" width="57" height="22" rx="5" fill="#161b22" stroke="#a371f7" stroke-opacity="0.35"/><text x="158" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">OWASP</text><rect x="195" y="176" width="94" height="22" rx="5" fill="#161b22" stroke="#a371f7" stroke-opacity="0.35"/><text x="242" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">Secure Dev</text></g>
+    <rect x="-160" y="2" width="130" height="204" fill="url(#sh)" transform="skewX(-16)"><animate attributeName="x" values="-160;540" dur="3s" begin="0.8s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="2.5" y="2.5" width="495" height="203" rx="12" fill="none" stroke="#a371f7" stroke-opacity="0.35" class="brd"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="208" viewBox="0 0 500 208" fill="none" role="img" aria-label="BlackOps Wireless">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1116"/><stop offset="1" stop-color="#08090c"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d4b" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2d4b" stop-opacity="0.10"/><stop offset="1" stop-color="#ff2d4b" stop-opacity="0"/></linearGradient>
+    <clipPath id="cl"><rect x="2" y="2" width="496" height="204" rx="12"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace}
+      .dot{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}
+      .chip{opacity:0;animation:fin .5s ease .6s forwards}@keyframes fin{to{opacity:1}}
+      .brd{animation:brd 3s ease-in-out infinite}@keyframes brd{50%{stroke-opacity:.7}}
+    </style>
+  </defs>
+  <rect x="2" y="2" width="496" height="204" rx="12" fill="url(#bg)"/>
+  <g clip-path="url(#cl)">
+    <rect x="2" y="2" width="6" height="204" fill="#ff2d4b" opacity="0.9"/>
+    <g><path d="M25 45 a13 13 0 0 1 18 0" fill="none" stroke="#ff2d4b" stroke-width="2" stroke-linecap="round"/><path d="M28.5 48.5 a8 8 0 0 1 11 0" fill="none" stroke="#ff2d4b" stroke-width="2" stroke-linecap="round"/><circle cx="34" cy="52" r="2.2" fill="#ff2d4b"/></g>
+    <text x="66" y="40" class="mono" font-size="17" font-weight="700" fill="#ff2d4b">BlackOps Wireless</text>
+    <text x="66" y="58" class="mono" font-size="11" fill="#6e7681">github.com/raju4199/BlackOps-Wireless</text>
+    <circle cx="430" cy="34" r="4" fill="#3fb950" class="dot"/>
+    <text x="442" y="38" class="mono" font-size="10.5" fill="#7d8794">LAB</text>
+    <text x="28" y="96" class="mono" font-size="12.5" fill="#c9d1d9">A self-contained lab for wireless auditing:</text><text x="28" y="118" class="mono" font-size="12.5" fill="#c9d1d9">one install script and a menu-driven launcher</text><text x="28" y="140" class="mono" font-size="12.5" fill="#c9d1d9">for Airgeddon, Wifite &amp; Bettercap on Kali.</text>
+    <g class="chip"><rect x="28" y="176" width="57" height="22" rx="5" fill="#161b22" stroke="#ff2d4b" stroke-opacity="0.35"/><text x="56" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">Shell</text><rect x="93" y="176" width="57" height="22" rx="5" fill="#161b22" stroke="#ff2d4b" stroke-opacity="0.35"/><text x="122" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">Wi-Fi</text><rect x="158" y="176" width="94" height="22" rx="5" fill="#161b22" stroke="#ff2d4b" stroke-opacity="0.35"/><text x="205" y="191" text-anchor="middle" class="mono" font-size="11" fill="#adbac7">Kali Linux</text></g>
+    <rect x="-160" y="2" width="130" height="204" fill="url(#sh)" transform="skewX(-16)"><animate attributeName="x" values="-160;540" dur="3s" begin="0.8s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="2.5" y="2.5" width="495" height="203" rx="12" fill="none" stroke="#ff2d4b" stroke-opacity="0.35" class="brd"/>
+</svg>

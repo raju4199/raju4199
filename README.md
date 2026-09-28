@@ -109,58 +109,16 @@ I study the building blocks defenders rely on and turn what I find into **practi
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 [LLMScan](https://github.com/raju4199/LLM_Tools)
-**The Nikto for Large Language Models.** An open-source CLI that probes any LLM endpoint for security vulnerabilities and generates a detailed report.
-
-`Python` `AI Security` `LLM Red Teaming`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [BlackOps Wireless](https://github.com/raju4199/BlackOps-Wireless)
-A self-contained lab for wireless security auditing: one install script and a menu-driven launcher for **Airgeddon, Wifite and Bettercap** on Kali.
-
-`Shell` `Wi-Fi` `Kali Linux`
-
-</td>
+<td width="50%"><a href="https://github.com/raju4199/LLM_Tools"><img src="./assets/proj_llmscan.svg" width="100%" alt="LLMScan"/></a></td>
+<td width="50%"><a href="https://github.com/raju4199/BlackOps-Wireless"><img src="./assets/proj_blackops.svg" width="100%" alt="BlackOps Wireless"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ [WebSec-Suite](https://github.com/raju4199/WebSec-Suite)
-A unified web security scanner that chains multiple tools into one interface, **from recon to detailed application testing**.
-
-`Shell` `Recon` `Web Security`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Web Vulnerabilities Modulation](https://github.com/raju4199/web-vulnerabilities-modulation)
-A hands-on platform simulating **SQLi, XSS and command execution** to show how attackers breach the CIA triad. Companion to my [published paper](https://www.researchgate.net/publication/380350909_Web_based_Vulnerabilities_Modulation_A_Comprehensive_Study_on_Web_Vulnerabilities).
-
-`JavaScript` `OWASP` `Secure Dev`
-
-</td>
+<td width="50%"><a href="https://github.com/raju4199/WebSec-Suite"><img src="./assets/proj_websec.svg" width="100%" alt="WebSec-Suite"/></a></td>
+<td width="50%"><a href="https://github.com/raju4199/web-vulnerabilities-modulation"><img src="./assets/proj_webvuln.svg" width="100%" alt="Web Vulnerabilities Modulation"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🦠 [Malware Detection using LLMs](https://github.com/raju4199/Enhanced-Malware-Detection-using-LLM-)
-AI-powered malware analysis with a fine-tuned **distilBERT** model for classifying malicious samples.
-
-`Python` `Transformers` `Malware Analysis`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 [Bug Bounty Toolkit](https://github.com/raju4199/bugbounty-tools-raju)
-My personal collection of tooling and scripts for recon and bug hunting in web applications and APIs.
-
-`Bug Bounty` `Recon` `Automation`
-
-</td>
+<td width="50%"><a href="https://github.com/raju4199/Enhanced-Malware-Detection-using-LLM-"><img src="./assets/proj_malware.svg" width="100%" alt="Malware Detection using LLMs"/></a></td>
+<td width="50%"><a href="https://github.com/raju4199/bugbounty-tools-raju"><img src="./assets/proj_bugbounty.svg" width="100%" alt="Bug Bounty Toolkit"/></a></td>
 </tr>
 </table>
 

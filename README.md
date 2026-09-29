@@ -110,7 +110,7 @@ I study the building blocks defenders rely on and turn what I find into **practi
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/raju4199/LLM_Tools"><img src="./assets/proj_llmscan.svg" width="100%" alt="LLMScan"/></a></td>
-<td width="50%"><a href="https://github.com/raju4199/BlackOps-Wireless"><img src="./assets/proj_blackops.svg" width="100%" alt="BlackOps Wireless"/></a></td>
+<td width="50%"><a href="https://github.com/raju4199/AirSniffer"><img src="./assets/proj_airsniffer.svg" width="100%" alt="Airsniffer"/></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/raju4199/WebSec-Suite"><img src="./assets/proj_websec.svg" width="100%" alt="WebSec-Suite"/></a></td>
